@@ -1,1 +1,4 @@
-export { default as apiRequest } from './apiRequest'
+import apiRequest from './apiRequest'
+import firestoreGet from './firestoreGet'
+
+export {apiRequest, firestoreGet}

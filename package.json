@@ -11,6 +11,8 @@
     "themeTypes": "node ./createThemeTypes.js"
   },
   "dependencies": {
+    "@react-native-firebase/app": "^14.1.0",
+    "@react-native-firebase/firestore": "^14.1.0",
     "@react-navigation/native": "^6.0.6",
     "@react-navigation/native-stack": "^6.2.5",
     "@types/react": "^17.0.19",

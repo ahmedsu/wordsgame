@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405231455791",
+    "project_id": "words-game-test",
+    "storage_bucket": "words-game-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405231455791:android:104154b57df08cb44f40da",
+        "android_client_info": {
+          "package_name": "com.wordsgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405231455791-8ubkl25e2e4tf9o94adkvrqgi9po19ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi46CNJ71Y_Vm19RErLUXelZP9xFy-i5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405231455791-8ubkl25e2e4tf9o94adkvrqgi9po19ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
