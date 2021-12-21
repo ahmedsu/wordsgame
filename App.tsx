@@ -22,7 +22,7 @@ const App = () => {
     SplashScreen.hide();
     // getTheme();
   }, []);
-  return <FbTest />;
+  return <Home />;
 };
 
 const localStyles = StyleSheet.create({
